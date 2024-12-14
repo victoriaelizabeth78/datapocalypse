@@ -18,3 +18,7 @@ def guessing_game(max):
     print(f"Good job, you got the right number in {counter} guesses!")
 
     # this is Victorias text
+
+    
+
+    #I have found this by accident and added line
