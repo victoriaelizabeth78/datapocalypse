@@ -6,7 +6,7 @@ def guessing_game(max):
     '''
     target = rn.randint(0, max)
     guess = max + 1
-    counter = 0
+    counter = 100
     while target != guess:
         counter += 1
         guess = int(input("What number would you like to guess?: "))
